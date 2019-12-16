@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ForceField
+  m_Shader: {fileID: -6465566751694194690, guid: 81153dc9887d39f4faf84d285444d8d7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_10DEA2BD:
+        m_Texture: {fileID: 2800000, guid: 9c4b18ed83bd6ce41b927d88900783cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BackTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrontTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LeftTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RightTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_32A84989: 0.6
+    - Vector1_44EEAA75: 0.1
+    - Vector1_57EDAF54: -0.5
+    - Vector1_BB1D3DA9: -1.5
+    - Vector1_BC2A783: 0.02
+    - Vector1_E8D28E64: 5
+    - _Exposure: 1
+    - _RimPower: 3
+    - _Rotation: 0
+    m_Colors:
+    - Color_2643DEB: {r: 2.996078, g: 1.192157, b: 0, a: 0}
+    - Color_9F9FAB36: {r: 0.00882353, g: 0.0009803922, b: 0.004901961, a: 0}
+    - Color_B39CB299: {r: 0, g: 5.724655, b: 5.992157, a: 0}
+    - Color_F3AF7201: {r: 0.2122642, g: 0.9228984, b: 1, a: 0}
+    - Vector2_48FAD87B: {r: 1, g: 3, b: 0, a: 0}
+    - _InnerColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.26, g: 0.19, b: 0.16, a: 0}
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

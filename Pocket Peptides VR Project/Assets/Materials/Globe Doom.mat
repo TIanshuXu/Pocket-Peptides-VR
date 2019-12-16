@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Globe Doom
+  m_Shader: {fileID: -6465566751694194690, guid: 5ba692848b5703c428672725736d8ec0,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_718A5187:
+        m_Texture: {fileID: 2800000, guid: 8ff6d58a22d44ed428af40fa511c8cfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DFF2B75E:
+        m_Texture: {fileID: 2800000, guid: 157778f8c54015c4baa03756b20098d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F33A1E5E:
+        m_Texture: {fileID: 2800000, guid: 1f316e23cc1a8bf418e2e765c0fb6953, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3245E67C: 0.05
+    - Vector1_6A384DD7: 0.2
+    - Vector1_D385AF52: 1
+    m_Colors:
+    - Color_872F6050: {r: 1.0592737, g: 0.171924, b: 0, a: 0}
