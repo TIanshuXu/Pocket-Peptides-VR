@@ -1,5 +1,7 @@
 # Pocket-Peptides-VR
 
+**Pocket Peptides PC** can be found [here](https://github.com/TIanshuXu/Pocket-Peptides-PC).
+
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
 
 ## Instructions
