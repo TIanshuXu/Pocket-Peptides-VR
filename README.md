@@ -1,5 +1,7 @@
 # Pocket-Peptides-VR
 
+![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
+
 ## Instructions
 
 1. Download the Pocket Peptides VR Game file
