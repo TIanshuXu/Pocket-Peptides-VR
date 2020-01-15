@@ -4,6 +4,14 @@
 
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
 
+![Left Panel](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Left%20Panel.gif)
+
+![Right Panel](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Right%20Panel.gif)
+
+![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
+
+![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
+
 ## Instructions
 
 1. Download the Pocket Peptides VR Game file
