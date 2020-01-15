@@ -20,7 +20,7 @@
 
 ![Helix Throw](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Helix%20Throw.gif "Throw")
 
-- **(5)** **Explore more** by repeating the steps (3) to (5)
+- **(6)** **Explore more** by repeating the steps (3) to (5)
 
 ## Orther Features
 - **Clicking** with the trigger button
@@ -47,7 +47,7 @@ Here are the features excluded from the current released version, but would be i
 ![Bend and Twist](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Bend%20and%20Twist.gif "Bend & Twist")
 
 ## Conclusion
-That's all the information for this VR game. Good Luck! Have Fun!!
+That's all the information for this VR game. **Good Luck! Have Fun!!**
 
 ![GLHF](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/GLHF.gif)
 
