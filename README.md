@@ -10,6 +10,8 @@
 
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
 
+Good luck! Have Fun!!
+
 ![GLHF](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/GLHF.gif)
 
 ## Instructions
