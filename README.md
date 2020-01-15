@@ -10,7 +10,7 @@
 
 ![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
 
-![Example Image](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/Example_01.gif)
+![GLHF](https://github.com/TIanshuXu/Pocket-Peptides-VR/blob/master/Example_Images/GLHF.gif)
 
 ## Instructions
 
